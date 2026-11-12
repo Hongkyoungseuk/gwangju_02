@@ -1,0 +1,15 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-11-12T08:20:00Z"},
+  "lists": "css",
+  "title": "광주 야구 원정 맛집·카페·숙소 가이드",
+  "order": ["cover", "intro", "overview", "songjeong", "usquare", "champfield", "hotel", "format", "closing"],
+  "sections": {
+    "s1": {"description": "도입: 왜 이 주제를 골랐는지", "start": "cover"},
+    "s2": {"description": "본문: 네 곳의 이동 거점별로 무엇을 모았는지", "start": "overview"},
+    "s3": {"description": "마무리: 정리 방식과 인사", "start": "format"}
+  },
+  "faces": {
+    "noto-sans-kr": {"family": "Noto Sans KR", "href": "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap"}
+  }
+}
